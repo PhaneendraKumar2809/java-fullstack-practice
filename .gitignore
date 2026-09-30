@@ -1,0 +1,11 @@
+.idea/
+*.iml
+out/
+*.class
+__pycache__/
+.env
+secrets.h
+config.h
+credentials.json
+.DS_Store
+Thumbs.db
